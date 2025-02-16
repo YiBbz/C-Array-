@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\ITDCA\Question 1\bin\Debug\net8.0\Question 1.exe
+C:\Users\Asus\Desktop\ITDCA\Question 1\bin\Debug\net8.0\Question 1.deps.json
+C:\Users\Asus\Desktop\ITDCA\Question 1\bin\Debug\net8.0\Question 1.runtimeconfig.json
+C:\Users\Asus\Desktop\ITDCA\Question 1\bin\Debug\net8.0\Question 1.dll
+C:\Users\Asus\Desktop\ITDCA\Question 1\bin\Debug\net8.0\Question 1.pdb
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.dll
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\refint\Question 1.dll
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.pdb
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\Question 1.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ITDCA\Question 1\obj\Debug\net8.0\ref\Question 1.dll
